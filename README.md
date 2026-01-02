@@ -1,3 +1,11 @@
+### HOW TO SET UP:
+
+NOTE: CMU Graphics is currently only supported by Python 3.9 - 3.13. If you have python 3.14, you will have to install an earlier version.
+
+1. Install [Desktop CMU Graphics](https://academy.cs.cmu.edu/desktop).
+2. Follow the instructions included in the zip file to run.
+3. Have fun!
+
 ### CONTROLS:
 
 **To move:** Use arrow keys (or W, A, S, and D if you prefer.).

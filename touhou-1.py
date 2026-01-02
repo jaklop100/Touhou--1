@@ -1,3 +1,4 @@
+from cmu_graphics import *
 import random
 import math
 #All sound effects are from this website: https://sfxr.me/
@@ -337,3 +338,4 @@ def onStep():
                 app.bulletsSb.opacity -= 2
         if app.boss.opacity <= 1:
             app.winScreen.toFront()
+cmu_graphics.run()

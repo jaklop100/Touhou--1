@@ -4,7 +4,7 @@ NOTE: CMU Graphics currently on supports Python 3.9 - 3.13. If you have python 3
 
 1. Install [Desktop CMU Graphics](https://academy.cs.cmu.edu/desktop) and [Python](https://www.python.org/) if needed.
 2. Unzip the cmu_graphics_installer folder, and move *touhou_minus_1.py* next to the *cmu_graphics* folder.
-3. Run in IDLE.
+3. Run in your prefered method for running python programs.
 4. Have fun!
 
 ### CONTROLS:

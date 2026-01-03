@@ -14,11 +14,11 @@ playerTime = 30
 goodTime = 10
 stageTime = 300
 #Sounds
-death = Sound("cmu://949828/44002434/09+-+MOTHER+-+Game+Over.mp3")
-damage = Sound("cmu://949828/44002417/damage.wav")
-hit = Sound("cmu://949828/44002498/hitHurt+(1).wav")
-backgroundMusic = Sound("cmu://949828/44002460/26+-+MOTHER+-+Roving+Tank.mp3") #"cmu://949828/44002809/03+-+MOTHER+-+Battle+with+a+Dangerous+Foe.mp3"
-win = Sound("cmu://949828/44002815/08+-+MOTHER+-+You+Won.mp3")
+death = Sound("TouHou1_Music/09+-+MOTHER+-+Game+Over.mp3")
+damage = Sound("TouHou1_Music/damage.wav")
+hit = Sound("TouHou1_Music/hitHurt.wav")
+backgroundMusic = Sound("TouHou1_Music/26+-+MOTHER+-+Roving+Tank.mp3") #"cmu://949828/44002809/03+-+MOTHER+-+Battle+with+a+Dangerous+Foe.mp3"
+win = Sound("TouHou1_Music/08+-+MOTHER+-+You+Won.mp3")
 backgroundMusic.play(loop = True)
 app.musicCount = 1
 #app stuff
